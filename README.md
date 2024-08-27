@@ -1,7 +1,18 @@
-# icetower
+# Ice Tower!
 
-my first roblox obby!! inspired by tower of hell. the game has 11 levels and players try to beat them all to get to the top without any checkpoints. there is also a secret area under the staircase!
+Ice Tower is a game I made using Roblox Studio and Lua, inspired by an obby I used to play called Tower of Hell. 
 
 LINK TO PLAY: https://www.roblox.com/games/18933808130/
 
-initial scrapbook post on 8/17/24 at 12:13 AM
+The game is available on Roblox to play!
+
+# Levels
+The game has 11 levels and players try to beat them all to get to the top without any checkpoints. 
+Levels include "Which Way?", "Lots of Lava", "Balance", "Sweeper", "Maze", "Shift Lock", "Worry Wheel", "Wall Walk", "Jump", "Timed Jumps", and "Force".
+
+# Easter Egg
+There is a hidden easter egg within the game! See if you can try to find it - hint: look under the stairs.
+
+# Time:
+I started this project on August 17th, and worked on it a few hours a day over the course of a couple weeks.
+
