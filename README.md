@@ -3,6 +3,7 @@
 Ice Tower is a game I made using Roblox Studio and Lua, inspired by an obby I used to play called Tower of Hell. 
 
 LINK TO PLAY: https://www.roblox.com/games/18933808130/
+https://www.roblox.com/games/18933808130/ICE-TOWER  (finished link)
 
 The game is available on Roblox to play!
 
